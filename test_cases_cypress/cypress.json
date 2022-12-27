@@ -1,0 +1,7 @@
+{
+    "baseUrl": "https://allegro.pl.allegrosandbox.pl/rejestracja/konto-firmowe/nowe-konto",
+    "includeShadowDom": true,
+    "chromeWebSecurity": true,
+    "viewportHeight": 1080,
+    "viewportWidth": 1920
+}
